@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **AI, Crypto Algo, Defi**
 
-- 📫 How to reach me **imfangcong@gmail.com**
+- 📫 How to reach me **imfangcong@gmail.com**, <a href="https://www.linkedin.com/in/buidlerklein/">Linkedin</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
