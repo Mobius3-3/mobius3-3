@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mobius</h1>
 <h3 align="center">A passionate algorithm developer traveling all over the world.</h3>
 
-- 🌱 I’m currently learning **crypto algorithm of zero knowledge**
+- 🌱 I’m currently learning **~~crypto algorithm of zero knowledge~~**, **smart contract dev on solana**
 
 - 💬 Ask me about **AI, Crypto Algo, Defi**
 
