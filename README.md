@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **AI, Crypto Algo, Defi**
 
-- 📫 How to reach me **chunloved@gmail.com**
+- 📫 How to reach me **imfangcong@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
