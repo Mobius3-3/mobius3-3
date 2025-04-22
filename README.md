@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">A passionate algorithm developer traveling all over the world.</h3>
+<h1 align="left">Hi 👋, I'm Andrew</h1>
+<h3 align="left">A passionate algorithm & blockchain developer traveling all over the world.</h3>
 
 - 🌱 I’m currently learning **~~smart contract dev on EVM~~**, **~~crypto algorithm of zero knowledge~~**, **smart contract dev on solana**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Open source contributors:</h3>
 
-[Data2.Cash](https://data2.cash/)
+[Data2.Cash](https://data2.cash/) | [BTC_bytelevel_tutorial](https://github.com/0xCryptoQuant/BTC_O2HERO) | [SOL_zero_to_hero(ongoing)](https://github.com/Mobius3-3/SolanaO2H)
 
 <h3 align="left">Languages and Tools:</h3>
 
