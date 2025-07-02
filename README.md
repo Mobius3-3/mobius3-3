@@ -9,7 +9,7 @@
 
 <h3 align="left">Open source contributors:</h3>
 
-[Data2.Cash](https://data2.cash/) | [BTC_bytelevel_tutorial(alias acc)](https://github.com/0xCryptoQuant/BTC_O2HERO) | [PandaDAO(dismissed)](https://coinmarketcap.com/currencies/pandadao/) | [SOL_zero_to_hero(ongoing)](https://github.com/Mobius3-3/SolanaO2H)
+[Data2.Cash](https://data2.cash/) | [BTC_bytelevel_tutorial(alias acc)](https://github.com/0xCryptoQuant/BTC_O2HERO) | [SOL_zero_to_hero(ongoing)](https://github.com/Mobius3-3/SolanaO2H)
 
 <h3 align="left">Languages and Tools:</h3>
 
