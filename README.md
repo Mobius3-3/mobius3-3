@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Andrew</h1>
 <h3 align="left">A passionate algorithm & quant developer traveling all over the world.</h3>
 
-- 🌱 I’m currently learning **~~Deep reinforcement learning~~**, **~~smart contract dev on EVM~~**, **~~crypto algorithm of zero knowledge~~**, **smart contract dev on solana**
+- 🌱 I’m currently learning **~~Deep reinforcement learning~~**, **~~smart contract dev on EVM~~**, **~~crypto algorithm of zero knowledge~~**, **~~smart contract dev on solana~~**, quantitative systematic development
 
 - 💬 Ask me about **AI, Crypto Algo, Defi**
 
