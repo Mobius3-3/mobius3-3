@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **AI, Crypto Algo, Defi**
 
-- 📫 How to reach me **imfangcong@gmail.com**, <a href="https://www.linkedin.com/in/buidlerklein/">Linkedin</a>
-
 <h3 align="left">Open source contributors:</h3>
 
 [zk circuit for Data2.Cash](https://github.com/contrix-zkid/zkid-hydra-s1) | [BTC_bytelevel_tutorial(alias acc)](https://github.com/0xCryptoQuant/BTC_O2HERO) | [Q3 2025 Turbin3](https://github.com/solana-turbin3/Q3_25_Builder_AndrewFang)
